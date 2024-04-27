@@ -26,7 +26,7 @@ Este script en Bash te permite eliminar los metadatos de imágenes utilizando la
 1. Clona este repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/tu-usuario/delete-metadata-bash-script.git
+git clone https://github.com/Sr-Mxr/metadel.git
 ```
 2. Navega al directorio del repositorio:
 ```bash
