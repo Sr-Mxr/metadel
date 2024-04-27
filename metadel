@@ -7,7 +7,7 @@ mostrar_banner() {
     echo      "*                                  *"
     echo      "*        \~ D E L E T E ~/         *"
     echo      "*                                  *"
-    echo      "*        M E T A D A T O S         *"
+    echo      "*       ~ M E T A D A T A ~        *"
     echo      "*                           By:mxr *"
     echo      "************************************"
     echo -e "\e[0m"
