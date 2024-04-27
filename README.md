@@ -43,7 +43,6 @@ Este script fue creado por mxr.
 ## Licencia
 Este proyecto está bajo la Licencia MIT.
 
-Asegúrate de que este archivo esté en la raíz de tu repositorio y se llame `README.md`.
 
 
 
