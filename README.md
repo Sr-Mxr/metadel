@@ -13,8 +13,10 @@ Este script en Bash te permite eliminar los metadatos de imágenes utilizando la
 
 ```bash
 ./delete_metadata.sh /ruta/a/imagen1.jpg /ruta/b/imagen2.jpg
+```
 3. El script mostrará los metadatos de cada imagen y te preguntará si deseas borrarlos.
 4. Si eliges borrar los metadatos, el script los eliminará de la imagen seleccionada.
+
 ## Requisitos
 . Linux (el script se ha probado en sistemas basados en Debian)
 . ExifTool (se instalará automáticamente si no está presente)
@@ -25,11 +27,11 @@ Este script en Bash te permite eliminar los metadatos de imágenes utilizando la
 
 ```bash
 git clone https://github.com/tu-usuario/delete-metadata-bash-script.git
-
+```
 2. Navega al directorio del repositorio:
 ```bash
 cd delete-metadata-bash-script
-
+```
 Ejecuta el script según las instrucciones anteriores.
 
 ## Contribución
